@@ -1,0 +1,51 @@
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.exe.config
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.exe
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.pdb
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.AssemblyReference.cache
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.SuggestedBindingRedirects.cache
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Form1.resources
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Properties.Resources.resources
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.GenerateResource.cache
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.CoreCompileInputs.cache
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.exe
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.pdb
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Hethong.resources
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyNV.resources
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanLyBan.resources
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Menu.resources
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyHD.resources
+D:\EPU NAM 2\Lập trinh .Net\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyKH.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.exe.config
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.exe
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.pdb
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.AssemblyReference.cache
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.SuggestedBindingRedirects.cache
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Form1.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Hethong.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Menu.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Properties.Resources.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanLyBan.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyHD.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyKH.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyNV.resources
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.GenerateResource.cache
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.CoreCompileInputs.cache
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.exe
+D:\EPU NAM 3\Học kì 1\Đồ án .NET\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.pdb
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.exe.config
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.exe
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\bin\Debug\Quanlyxuongbida.pdb
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.AssemblyReference.cache
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Form1.resources
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Hethong.resources
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Menu.resources
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.Properties.Resources.resources
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanLyBan.resources
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyHD.resources
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyKH.resources
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.QuanlyNV.resources
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.GenerateResource.cache
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.csproj.CoreCompileInputs.cache
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.exe
+C:\Users\NGOCTU\Desktop\Quanlyxuongbida\Quanlyxuongbida\obj\Debug\Quanlyxuongbida.pdb
